@@ -1,6 +1,7 @@
 ## Oláááá 👋
 
 📫 How to reach me: 
+
 <a href="https://www.linkedin.com/in/diego-fonseca-1439a2173" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <!--
 **wolfgangF/wolfgangf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
